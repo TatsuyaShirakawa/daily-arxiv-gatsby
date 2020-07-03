@@ -18,7 +18,7 @@ module.exports = {
   ],
   author: {
     name: 'Tatsuya Shirakawa (白川 達也)',
-    photo: '/media/tatsuya-shirakawa.png',
+    photo: '/media/flying-marine.jpg',
     bio: 'Researcher at ABEJA, inc. (Machine Learning, Deep Learning, Mathematical Optimization)',
     contacts: {
       email: 'lilys1204@gmail.com',
