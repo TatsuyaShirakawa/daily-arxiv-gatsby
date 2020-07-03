@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://modest-wright-7aaa9e.netlify.app/',
   pathPrefix: '/',
   title: 'Hot arXiv Papers',
   subtitle: 'Hot arXiv papers',
