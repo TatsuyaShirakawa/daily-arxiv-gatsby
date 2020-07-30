@@ -50,6 +50,16 @@ def get_blog_filename(papers):
 
 
 def commit_and_push(blog_filename):
+    print('git config')
+    ret = subprocess.run(['git', 'config', '--global', 'user.email', 'lilys1204@gmail.com'],
+                         stdin=sys.stdin, stdout=sys.stdout)
+    ret = subprocess.run(['git', 'config', '--global', 'user.name', 'TatsuyaShirakawa'],
+                         stdin=sys.stdin, stdout=sys.stdout)
+
+    print('git add')
+    ret = subprocess.run(['git', 'add', blog_filename],
+                         stdin=sys.stdin, stdout=sys.stdout)
+
     print('git add')
     ret = subprocess.run(['git', 'add', blog_filename],
                          stdin=sys.stdin, stdout=sys.stdout)
@@ -61,7 +71,6 @@ def commit_and_push(blog_filename):
     url = f'https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/TatsuyaShirakawa/daily-arxiv-gatsby.git'
     ret = subprocess.run(['git', 'push', url],
                          stdin=sys.stdin, stdout=sys.stdout)
-    
     
 
 def main():
