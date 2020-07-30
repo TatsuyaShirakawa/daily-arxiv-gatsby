@@ -56,6 +56,12 @@ def commit_and_push(blog_filename):
     print('git commit')
     ret = subprocess.run(['git', 'commit', '-m', '"new post"'],
                          stdin=sys.stdin, stdout=sys.stdout)
+
+    print('git push')
+    url = f'https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/TatsuyaShirakawa/daily-arxiv-gatsby.git'
+    ret = subprocess.run(['git', 'push', url],
+                         stdin=sys.stdin, stdout=sys.stdout)
+    
     
 
 def main():
