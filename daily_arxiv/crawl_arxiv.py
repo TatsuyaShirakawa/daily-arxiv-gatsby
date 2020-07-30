@@ -8,7 +8,8 @@ from bs4 import BeautifulSoup
 import arxiv
 
 
-locale.setlocale(locale.LC_TIME, 'en_US.UTF-8')
+# locale.setlocale(locale.LC_TIME, 'en_US.UTF-8')
+# locale.setlocale(locale.LC_TIME, 'C.UTF-8')
 
 
 class Crawler:
@@ -23,8 +24,9 @@ class Crawler:
         assert(since >= until)
         target_urls = {target: f'https://arxiv.org/list/{target}/pastweek'
                        for target in targets}
-        cur_locale = locale.getlocale(locale.LC_TIME)
-        locale.setlocale(locale.LC_TIME, 'en_US.UTF-8')
+        # cur_locale = locale.getlocale(locale.LC_TIME)
+        # locale.setlocale(locale.LC_TIME, 'en_US.UTF-8')
+        # locale.setlocale(locale.LC_TIME, 'C.UTF-8')
 
         # list papers
         try:
@@ -140,7 +142,9 @@ class Crawler:
                         if len(h3s) == 0:
                             break
         finally:
-            locale.setlocale(locale.LC_TIME, '.'.join(cur_locale))
+            ...
+            # print(cur_locale)
+            # locale.setlocale(locale.LC_TIME, '.'.join(cur_locale))
 
         arxiv_infos = arxiv.query(id_list=[paper['id'] for paper in papers])
         for paper, arxiv_info in zip(papers, arxiv_infos):
