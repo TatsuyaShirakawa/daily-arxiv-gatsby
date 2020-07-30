@@ -5,9 +5,13 @@ from pathlib import Path
 import datetime
 from tqdm import tqdm
 import subprocess
+import dotenv
 from daily_arxiv.crawl_arxiv import crawl_arxiv
 from daily_arxiv.search_tweets import search_tweets
 from daily_arxiv.create_markdown import write_blog
+
+
+dotenv.load_dotenv()
 
 
 TARGETS = ['cs', 'stat.ML']
@@ -46,14 +50,31 @@ def get_blog_filename(papers):
 
 
 def commit_and_push(blog_filename):
-    return
+    print('git config')
+    ret = subprocess.run(['git', 'config', '--global', 'user.email', 'lilys1204@gmail.com'],
+                         stdin=sys.stdin, stdout=sys.stdout)
+    ret = subprocess.run(['git', 'config', '--global', 'user.name', 'TatsuyaShirakawa'],
+                         stdin=sys.stdin, stdout=sys.stdout)
+
+    print('git add')
     ret = subprocess.run(['git', 'add', blog_filename],
                          stdin=sys.stdin, stdout=sys.stdout)
+
+    print('git add')
+    ret = subprocess.run(['git', 'add', blog_filename],
+                         stdin=sys.stdin, stdout=sys.stdout)
+    print('git commit')
     ret = subprocess.run(['git', 'commit', '-m', '"new post"'],
+                         stdin=sys.stdin, stdout=sys.stdout)
+
+    print('git push')
+    url = f'https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/TatsuyaShirakawa/daily-arxiv-gatsby.git'
+    ret = subprocess.run(['git', 'push', url],
                          stdin=sys.stdin, stdout=sys.stdout)
     
 
 def main():
+    
     papers = crawl_arxiv(targets=TARGETS,
                          since=SINCE,
                          until=UNTIL)
