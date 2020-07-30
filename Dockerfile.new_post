@@ -1,0 +1,12 @@
+FROM python:3.7
+
+RUN apt updaet && apt install -y git
+
+RUN pip insall tqdm loguru click python-twitter dotenv twint arxiv beautifulsoup4 requests
+
+RUN git clone https://github.com/TatsuyaShirakawa/daily-arxiv-gatsby /daily-arxiv-gatsby
+
+ENV HOME /daily-arxiv-gatsby
+ENV PYTHONPATH $HOME
+
+ENTRYPOINT ["python" "daily_arxiv/main.py"]
