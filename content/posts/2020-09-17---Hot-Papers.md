@@ -1,6 +1,6 @@
 ---
 title: Hot Papers 2020-09-17
-date: 2020-09-19T01:39:30.Z
+date: 2020-09-19T02:04:31.Z
 template: "post"
 draft: false
 slug: "hot-papers-2020-09-17"
@@ -19,7 +19,7 @@ socialImage: "/media/flying-marine.jpg"
 
 Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein
 
-- retweets: 6496, favorites: 160 (09/19/2020 01:39:30)
+- retweets: 6496, favorites: 160 (09/19/2020 02:04:31)
 
 - links: [abs](https://arxiv.org/abs/2009.07833) | [pdf](https://arxiv.org/pdf/2009.07833)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.GR](https://arxiv.org/list/cs.GR/recent)
@@ -32,30 +32,6 @@ We present a method for retiming people in an ordinary, natural video---manipula
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Layered Neural Rendering for Retiming People in Video<br>pdf: <a href="https://t.co/NlRaJ5rElQ">https://t.co/NlRaJ5rElQ</a><br>abs: <a href="https://t.co/RPk6zluNOb">https://t.co/RPk6zluNOb</a><br>project page: <a href="https://t.co/BNuXnSsQck">https://t.co/BNuXnSsQck</a> <a href="https://t.co/rbFpAjZbxQ">pic.twitter.com/rbFpAjZbxQ</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1306392510642749440?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 
@@ -63,36 +39,12 @@ We present a method for retiming people in an ordinary, natural video---manipula
 
 Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki
 
-- retweets: 760, favorites: 148 (09/19/2020 01:39:31)
+- retweets: 760, favorites: 148 (09/19/2020 02:04:31)
 
 - links: [abs](https://arxiv.org/abs/2009.07476) | [pdf](https://arxiv.org/pdf/2009.07476)
 - [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [stat.ML](https://arxiv.org/list/stat.ML/recent)
 
 We present Neural A*, a novel data-driven search algorithm for path planning problems. Although data-driven planning has received much attention in recent years, little work has focused on how search-based methods can learn from demonstrations to plan better. In this work, we reformulate a canonical A* search algorithm to be differentiable and couple it with a convolutional encoder to form an end-to-end trainable neural network planner. Neural A* solves a path planning problem by (1) encoding a visual representation of the problem to estimate a movement cost map and (2) performing the A* search on the cost map to output a solution path. By minimizing the difference between the search results and ground-truth paths in demonstrations, the encoder learns to capture a variety of visual planning cues in input images, such as shapes of dead-end obstacles, bypasses, and shortcuts, which makes estimated cost maps informative. Our extensive experiments confirmed that Neural A* (a) outperformed state-of-the-art data-driven planners in terms of the search optimality and efficiency trade-off and (b) predicted realistic pedestrian paths by directly performing a search on raw image inputs.
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">arXivに新しい論文をアップロードしました: &quot;Path Planning using Neural A* Search&quot; <a href="https://t.co/4e0Sxvtfrn">https://t.co/4e0Sxvtfrn</a> 米谷・谷合・西村（オムロンサイニックエックス）、Amin（インターン）、技術アドバイザの金崎先生（東工大）による研究で、微分可能なA*探索による経路計画の話です。</p>&mdash; Ryo Yonetani (@RYonetani) <a href="https://twitter.com/RYonetani/status/1306394732310921216?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -107,7 +59,7 @@ We present Neural A*, a novel data-driven search algorithm for path planning pro
 
 Leto Peel, Michael T. Schaub
 
-- retweets: 218, favorites: 56 (09/19/2020 01:39:32)
+- retweets: 218, favorites: 56 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07525) | [pdf](https://arxiv.org/pdf/2009.07525)
 - [cs.SI](https://arxiv.org/list/cs.SI/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent) | [physics.soc-ph](https://arxiv.org/list/physics.soc-ph/recent) | [stat.ML](https://arxiv.org/list/stat.ML/recent)
@@ -124,7 +76,7 @@ We study the problem of recovering a planted hierarchy of partitions in a networ
 
 Victor Zhong, Mike Lewis, Sida I. Wang, Luke Zettlemoyer
 
-- retweets: 192, favorites: 64 (09/19/2020 01:39:33)
+- retweets: 192, favorites: 64 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07396) | [pdf](https://arxiv.org/pdf/2009.07396)
 - [cs.CL](https://arxiv.org/list/cs.CL/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.DB](https://arxiv.org/list/cs.DB/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -141,7 +93,7 @@ We propose Grounded Adaptation for Zero-shot Executable Semantic Parsing (GAZP) 
 
 Tomas Hodan, Martin Sundermeyer, Bertram Drost, Yann Labbe, Eric Brachmann, Frank Michel, Carsten Rother, Jiri Matas
 
-- retweets: 112, favorites: 36 (09/19/2020 01:39:33)
+- retweets: 112, favorites: 36 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07378) | [pdf](https://arxiv.org/pdf/2009.07378)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.GR](https://arxiv.org/list/cs.GR/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.RO](https://arxiv.org/list/cs.RO/recent)
@@ -158,7 +110,7 @@ This paper presents the evaluation methodology, datasets, and results of the BOP
 
 Yuen-Jen Lin, Hsuan-Kai Kao, Yih-Chih Tseng, Ming Tsai, Li Su
 
-- retweets: 110, favorites: 34 (09/19/2020 01:39:33)
+- retweets: 110, favorites: 34 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07816) | [pdf](https://arxiv.org/pdf/2009.07816)
 - [cs.MM](https://arxiv.org/list/cs.MM/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent)
@@ -175,7 +127,7 @@ Virtual musicians have become a remarkable phenomenon in the contemporary multim
 
 Shuhei Kurita, Kyunghyun Cho
 
-- retweets: 53, favorites: 45 (09/19/2020 01:39:33)
+- retweets: 53, favorites: 45 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07783) | [pdf](https://arxiv.org/pdf/2009.07783)
 - [cs.CL](https://arxiv.org/list/cs.CL/recent)
@@ -192,7 +144,7 @@ Vision-and-language navigation (VLN) is a task in which an agent is embodied in 
 
 Juan Cruz-Benito, Sanjay Vishwakarma, Francisco Martin-Fernandez, Ismael Faro
 
-- retweets: 78, favorites: 17 (09/19/2020 01:39:33)
+- retweets: 78, favorites: 17 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07740) | [pdf](https://arxiv.org/pdf/2009.07740)
 - [cs.CL](https://arxiv.org/list/cs.CL/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.PL](https://arxiv.org/list/cs.PL/recent) | [cs.SE](https://arxiv.org/list/cs.SE/recent)
@@ -209,7 +161,7 @@ In recent years, the use of deep learning in language models, text auto-completi
 
 Damla Senol Cali, Gurpreet S. Kalsi, Zülal Bingöl, Can Firtina, Lavanya Subramanian, Jeremie S. Kim, Rachata Ausavarungnirun, Mohammed Alser, Juan Gomez-Luna, Amirali Boroumand, Anant Nori, Allison Scibisz, Sreenivas Subramoney, Can Alkan, Saugata Ghose, Onur Mutlu
 
-- retweets: 54, favorites: 39 (09/19/2020 01:39:33)
+- retweets: 54, favorites: 39 (09/19/2020 02:04:32)
 
 - links: [abs](https://arxiv.org/abs/2009.07692) | [pdf](https://arxiv.org/pdf/2009.07692)
 - [cs.AR](https://arxiv.org/list/cs.AR/recent) | [q-bio.GN](https://arxiv.org/list/q-bio.GN/recent)
@@ -226,7 +178,7 @@ Genome sequence analysis has enabled significant advancements in medical and sci
 
 Jan Portisch, Michael Hladik, Heiko Paulheim
 
-- retweets: 42, favorites: 44 (09/19/2020 01:39:33)
+- retweets: 42, favorites: 44 (09/19/2020 02:04:33)
 
 - links: [abs](https://arxiv.org/abs/2009.07659) | [pdf](https://arxiv.org/pdf/2009.07659)
 - [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.CL](https://arxiv.org/list/cs.CL/recent)
@@ -243,7 +195,7 @@ Knowledge graph embedding approaches represent nodes and edges of graphs as math
 
 Ching-Chen Wang, Ching-Te Chiu, Jheng-Yi Chang
 
-- retweets: 40, favorites: 26 (09/19/2020 01:39:34)
+- retweets: 40, favorites: 26 (09/19/2020 02:04:33)
 
 - links: [abs](https://arxiv.org/abs/2009.07409) | [pdf](https://arxiv.org/pdf/2009.07409)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -257,7 +209,7 @@ Embedding Convolutional Neural Network (CNN) into edge devices for inference is 
 
 Zijie Ye, Haozhe Wu, Jia Jia, Yaohua Bu, Wei Chen, Fanbo Meng, Yanfeng Wang
 
-- retweets: 42, favorites: 23 (09/19/2020 01:39:34)
+- retweets: 42, favorites: 23 (09/19/2020 02:04:33)
 
 - links: [abs](https://arxiv.org/abs/2009.07637) | [pdf](https://arxiv.org/pdf/2009.07637)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.MM](https://arxiv.org/list/cs.MM/recent)
@@ -274,7 +226,7 @@ Dance and music are two highly correlated artistic forms. Synthesizing dance mot
 
 Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran, Jennifer Chu-Carroll
 
-- retweets: 45, favorites: 20 (09/19/2020 01:39:34)
+- retweets: 45, favorites: 20 (09/19/2020 02:04:33)
 
 - links: [abs](https://arxiv.org/abs/2009.07758) | [pdf](https://arxiv.org/pdf/2009.07758)
 - [cs.CL](https://arxiv.org/list/cs.CL/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent)
