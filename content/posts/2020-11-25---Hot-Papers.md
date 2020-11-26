@@ -1,6 +1,6 @@
 ---
 title: Hot Papers 2020-11-25
-date: 2020-11-26T10:06:31.Z
+date: 2020-11-26T10:46:11.Z
 template: "post"
 draft: false
 slug: "hot-papers-2020-11-25"
@@ -19,7 +19,7 @@ socialImage: "/media/flying-marine.jpg"
 
 Felix Wimbauer, Nan Yang, Lukas von Stumberg, Niclas Zeller, Daniel Cremers
 
-- retweets: 1504, favorites: 316 (11/26/2020 10:06:31)
+- retweets: 1504, favorites: 320 (11/26/2020 10:46:11)
 
 - links: [abs](https://arxiv.org/abs/2011.11814) | [pdf](https://arxiv.org/pdf/2011.11814)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -39,7 +39,7 @@ In this paper, we propose MonoRec, a semi-supervised monocular dense reconstruct
 
 Zhanghan Ke, Kaican Li, Yurou Zhou, Qiuhua Wu, Xiangyu Mao, Qiong Yan, Rynson W.H. Lau
 
-- retweets: 1056, favorites: 245 (11/26/2020 10:06:32)
+- retweets: 1056, favorites: 246 (11/26/2020 10:46:11)
 
 - links: [abs](https://arxiv.org/abs/2011.11961) | [pdf](https://arxiv.org/pdf/2011.11961)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -56,7 +56,7 @@ For human matting without the green screen, existing works either require auxili
 
 Florian Tramèr, Dan Boneh
 
-- retweets: 258, favorites: 97 (11/26/2020 10:06:32)
+- retweets: 258, favorites: 100 (11/26/2020 10:46:11)
 
 - links: [abs](https://arxiv.org/abs/2011.11660) | [pdf](https://arxiv.org/pdf/2011.11660)
 - [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.CR](https://arxiv.org/list/cs.CR/recent)
@@ -73,7 +73,7 @@ We demonstrate that differentially private machine learning has not yet reached 
 
 Mahmoud Afifi, Marcus A. Brubaker, Michael S. Brown
 
-- retweets: 218, favorites: 96 (11/26/2020 10:06:32)
+- retweets: 218, favorites: 96 (11/26/2020 10:46:11)
 
 - links: [abs](https://arxiv.org/abs/2011.11731) | [pdf](https://arxiv.org/pdf/2011.11731)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -90,7 +90,7 @@ While generative adversarial networks (GANs) can successfully produce high-quali
 
 Yunsheng Li, Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Lu Yuan, Zicheng Liu, Lei Zhang, Nuno Vasconcelos
 
-- retweets: 86, favorites: 79 (11/26/2020 10:06:32)
+- retweets: 86, favorites: 79 (11/26/2020 10:46:12)
 
 - links: [abs](https://arxiv.org/abs/2011.12289) | [pdf](https://arxiv.org/pdf/2011.12289)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -110,7 +110,7 @@ In this paper, we present MicroNet, which is an efficient convolutional neural n
 
 Noé Pion, Martin Humenberger, Gabriela Csurka, Yohann Cabon, Torsten Sattler
 
-- retweets: 92, favorites: 72 (11/26/2020 10:06:32)
+- retweets: 92, favorites: 72 (11/26/2020 10:46:12)
 
 - links: [abs](https://arxiv.org/abs/2011.11946) | [pdf](https://arxiv.org/pdf/2011.11946)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -130,7 +130,7 @@ Visual localization, i.e., camera pose estimation in a known scene, is a core co
 
 Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny
 
-- retweets: 20, favorites: 46 (11/26/2020 10:06:33)
+- retweets: 30, favorites: 47 (11/26/2020 10:46:12)
 
 - links: [abs](https://arxiv.org/abs/2011.12026) | [pdf](https://arxiv.org/pdf/2011.12026)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -147,7 +147,7 @@ In most existing learning systems, images are typically viewed as 2D pixel array
 
 Michael Niemeyer, Andreas Geiger
 
-- retweets: 36, favorites: 29 (11/26/2020 10:06:33)
+- retweets: 36, favorites: 29 (11/26/2020 10:46:12)
 
 - links: [abs](https://arxiv.org/abs/2011.12100) | [pdf](https://arxiv.org/pdf/2011.12100)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -164,7 +164,7 @@ Deep generative models allow for photorealistic image synthesis at high resoluti
 
 Shuang Li, Yilun Du, Gido M. van de Ven, Antonio Torralba, Igor Mordatch
 
-- retweets: 8, favorites: 52 (11/26/2020 10:06:33)
+- retweets: 8, favorites: 54 (11/26/2020 10:46:12)
 
 - links: [abs](https://arxiv.org/abs/2011.12216) | [pdf](https://arxiv.org/pdf/2011.12216)
 - [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [stat.ML](https://arxiv.org/list/stat.ML/recent)
@@ -184,7 +184,7 @@ We motivate Energy-Based Models (EBMs) as a promising model class for continual 
 
 Deepali Jain, Atil Iscen, Ken Caluwaerts
 
-- retweets: 20, favorites: 30 (11/26/2020 10:06:33)
+- retweets: 20, favorites: 32 (11/26/2020 10:46:13)
 
 - links: [abs](https://arxiv.org/abs/2011.11722) | [pdf](https://arxiv.org/pdf/2011.11722)
 - [cs.RO](https://arxiv.org/list/cs.RO/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
