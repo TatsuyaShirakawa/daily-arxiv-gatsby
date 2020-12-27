@@ -1,6 +1,6 @@
 ---
 title: Hot Papers 2020-12-25
-date: 2020-12-26T16:50:40.Z
+date: 2020-12-28T08:44:10.Z
 template: "post"
 draft: false
 slug: "hot-papers-2020-12-25"
@@ -19,7 +19,7 @@ socialImage: "/media/flying-marine.jpg"
 
 Vinod Nair, Sergey Bartunov, Felix Gimeno, Ingrid von Glehn, Pawel Lichocki, Ivan Lobov, Brendan O'Donoghue, Nicolas Sonnerat, Christian Tjandraatmadja, Pengming Wang, Ravichandra Addanki, Tharindi Hapuarachchi, Thomas Keck, James Keeling, Pushmeet Kohli, Ira Ktena, Yujia Li, Oriol Vinyals, Yori Zwols
 
-- retweets: 12223, favorites: 47 (12/26/2020 16:50:40)
+- retweets: 13820, favorites: 57 (12/28/2020 08:44:10)
 
 - links: [abs](https://arxiv.org/abs/2012.13349) | [pdf](https://arxiv.org/pdf/2012.13349)
 - [math.OC](https://arxiv.org/list/math.OC/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.DM](https://arxiv.org/list/cs.DM/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.NE](https://arxiv.org/list/cs.NE/recent)
@@ -32,28 +32,11 @@ Mixed Integer Programming (MIP) solvers rely on an array of sophisticated heuris
 
 
 
-# 2. Soft-IntroVAE: Analyzing and Improving the Introspective Variational  Autoencoder
-
-Tal Daniel, Aviv Tamar
-
-- retweets: 504, favorites: 112 (12/26/2020 16:50:40)
-
-- links: [abs](https://arxiv.org/abs/2012.13253) | [pdf](https://arxiv.org/pdf/2012.13253)
-- [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.CV](https://arxiv.org/list/cs.CV/recent)
-
-The recently introduced introspective variational autoencoder (IntroVAE) exhibits outstanding image generations, and allows for amortized inference using an image encoder. The main idea in IntroVAE is to train a VAE adversarially, using the VAE encoder to discriminate between generated and real data samples. However, the original IntroVAE loss function relied on a particular hinge-loss formulation that is very hard to stabilize in practice, and its theoretical convergence analysis ignored important terms in the loss. In this work, we take a step towards better understanding of the IntroVAE model, its practical implementation, and its applications. We propose the Soft-IntroVAE, a modified IntroVAE that replaces the hinge-loss terms with a smooth exponential loss on generated samples. This change significantly improves training stability, and also enables theoretical analysis of the complete algorithm. Interestingly, we show that the IntroVAE converges to a distribution that minimizes a sum of KL distance from the data distribution and an entropy term. We discuss the implications of this result, and demonstrate that it induces competitive image generation and reconstruction. Finally, we describe two applications of Soft-IntroVAE to unsupervised image translation and out-of-distribution detection, and demonstrate compelling results. Code and additional information is available on the project website -- https://taldatech.github.io/soft-intro-vae-web
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder<br>pdf: <a href="https://t.co/ptyRmVE5JP">https://t.co/ptyRmVE5JP</a><br>abs: <a href="https://t.co/uJ8jMTc8dH">https://t.co/uJ8jMTc8dH</a><br>project page: <a href="https://t.co/U62Bd30R5X">https://t.co/U62Bd30R5X</a><br>github: <a href="https://t.co/FkywlKgpfz">https://t.co/FkywlKgpfz</a> <a href="https://t.co/Zt5qA48xGr">pic.twitter.com/Zt5qA48xGr</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1342297437373935618?ref_src=twsrc%5Etfw">December 25, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-# 3. Nine Best Practices for Research Software Registries and Repositories: A  Concise Guide
+# 2. Nine Best Practices for Research Software Registries and Repositories: A  Concise Guide
 
 Task Force on Best Practices for Software Registries, Alain Monteil, Alejandra Gonzalez-Beltran, Alexandros Ioannidis, Alice Allen, Allen Lee, Anita Bandrowski, Bruce E. Wilson, Bryce Mecum, Cai Fan Du, Carly Robinson, Daniel Garijo, Daniel S. Katz, David Long, Genevieve Milliken, Hervé Ménager, Jessica Hausman
 
-- retweets: 182, favorites: 28 (12/26/2020 16:50:40)
+- retweets: 600, favorites: 50 (12/28/2020 08:44:10)
 
 - links: [abs](https://arxiv.org/abs/2012.13117) | [pdf](https://arxiv.org/pdf/2012.13117)
 - [cs.DL](https://arxiv.org/list/cs.DL/recent) | [cs.CY](https://arxiv.org/list/cs.CY/recent)
@@ -66,16 +49,36 @@ Scientific software registries and repositories serve various roles in their res
 
 
 
+# 3. Soft-IntroVAE: Analyzing and Improving the Introspective Variational  Autoencoder
+
+Tal Daniel, Aviv Tamar
+
+- retweets: 514, favorites: 129 (12/28/2020 08:44:10)
+
+- links: [abs](https://arxiv.org/abs/2012.13253) | [pdf](https://arxiv.org/pdf/2012.13253)
+- [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.CV](https://arxiv.org/list/cs.CV/recent)
+
+The recently introduced introspective variational autoencoder (IntroVAE) exhibits outstanding image generations, and allows for amortized inference using an image encoder. The main idea in IntroVAE is to train a VAE adversarially, using the VAE encoder to discriminate between generated and real data samples. However, the original IntroVAE loss function relied on a particular hinge-loss formulation that is very hard to stabilize in practice, and its theoretical convergence analysis ignored important terms in the loss. In this work, we take a step towards better understanding of the IntroVAE model, its practical implementation, and its applications. We propose the Soft-IntroVAE, a modified IntroVAE that replaces the hinge-loss terms with a smooth exponential loss on generated samples. This change significantly improves training stability, and also enables theoretical analysis of the complete algorithm. Interestingly, we show that the IntroVAE converges to a distribution that minimizes a sum of KL distance from the data distribution and an entropy term. We discuss the implications of this result, and demonstrate that it induces competitive image generation and reconstruction. Finally, we describe two applications of Soft-IntroVAE to unsupervised image translation and out-of-distribution detection, and demonstrate compelling results. Code and additional information is available on the project website -- https://taldatech.github.io/soft-intro-vae-web
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder<br>pdf: <a href="https://t.co/ptyRmVE5JP">https://t.co/ptyRmVE5JP</a><br>abs: <a href="https://t.co/uJ8jMTc8dH">https://t.co/uJ8jMTc8dH</a><br>project page: <a href="https://t.co/U62Bd30R5X">https://t.co/U62Bd30R5X</a><br>github: <a href="https://t.co/FkywlKgpfz">https://t.co/FkywlKgpfz</a> <a href="https://t.co/Zt5qA48xGr">pic.twitter.com/Zt5qA48xGr</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1342297437373935618?ref_src=twsrc%5Etfw">December 25, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 # 4. MobileSal: Extremely Efficient RGB-D Salient Object Detection
 
 Yu-Huan Wu, Yun Liu, Jun Xu, Jia-Wang Bian, Yuchao Gu, Ming-Ming Cheng
 
-- retweets: 49, favorites: 14 (12/26/2020 16:50:40)
+- retweets: 51, favorites: 20 (12/28/2020 08:44:10)
 
 - links: [abs](https://arxiv.org/abs/2012.13095) | [pdf](https://arxiv.org/pdf/2012.13095)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
 The high computational cost of neural networks has prevented recent successes in RGB-D salient object detection (SOD) from benefiting real-world applications. Hence, this paper introduces a novel network, \methodname, which focuses on efficient RGB-D SOD by using mobile networks for deep feature extraction. The problem is that mobile networks are less powerful in feature representation than cumbersome networks. To this end, we observe that the depth information of color images can strengthen the feature representation related to SOD if leveraged properly. Therefore, we propose an implicit depth restoration (IDR) technique to strengthen the feature representation capability of mobile networks for RGB-D SOD. IDR is only adopted in the training phase and is omitted during testing, so it is computationally free. Besides, we propose compact pyramid refinement (CPR) for efficient multi-level feature aggregation so that we can derive salient objects with clear boundaries. With IDR and CPR incorporated, \methodname~performs favorably against \sArt methods on seven challenging RGB-D SOD datasets with much faster speed (450fps) and fewer parameters (6.5M). The code will be released.
+
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">MobileSal: Extremely Efficient RGB-D Salient Object Detection<br>pdf: <a href="https://t.co/MIE6G5gU4A">https://t.co/MIE6G5gU4A</a><br>abs: <a href="https://t.co/Lg3QnN31PH">https://t.co/Lg3QnN31PH</a> <a href="https://t.co/x32bS0Bnhm">pic.twitter.com/x32bS0Bnhm</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1342308027278520322?ref_src=twsrc%5Etfw">December 25, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -84,12 +87,40 @@ The high computational cost of neural networks has prevented recent successes in
 
 Naoki Masuda, Joel C. Miller, Petter Holme
 
-- retweets: 30, favorites: 31 (12/26/2020 16:50:40)
+- retweets: 30, favorites: 31 (12/28/2020 08:44:10)
 
 - links: [abs](https://arxiv.org/abs/2012.13317) | [pdf](https://arxiv.org/pdf/2012.13317)
 - [physics.soc-ph](https://arxiv.org/list/physics.soc-ph/recent) | [cs.SI](https://arxiv.org/list/cs.SI/recent)
 
 Diseases spread over temporal networks of contacts between individuals. Structures of these temporal networks hold the keys to understanding epidemic propagation. One early concept of the literature to aid in discussing these structures is concurrency -- quantifying individuals' tendency to form time-overlapping "partnerships". Although conflicting evaluations and an overabundance of operational definitions have marred the history of concurrency, it remains important, especially in the area of sexually transmitted infections. Today, much of theoretical epidemiology uses more direct models of contact patterns, and there is an emerging body of literature trying to connect methods to the concurrency literature. In this review, we will cover the development of the concept of concurrency and these new approaches.
+
+
+
+
+# 6. Spectral Ranking of Causal Influence in Complex Systems
+
+Errol Zalmijn, Tom Heskes, Tom Claassen
+
+- retweets: 49, favorites: 7 (12/28/2020 08:44:10)
+
+- links: [abs](https://arxiv.org/abs/2012.13195) | [pdf](https://arxiv.org/pdf/2012.13195)
+- [cs.IT](https://arxiv.org/list/cs.IT/recent) | [nlin.AO](https://arxiv.org/list/nlin.AO/recent) | [physics.soc-ph](https://arxiv.org/list/physics.soc-ph/recent)
+
+Like natural complex systems such as the Earth's climate or a living cell, semiconductor lithography systems are characterized by nonlinear dynamics across more than a dozen orders of magnitude in space and time. Thousands of sensors measure relevant process variables at appropriate sampling rates, to provide time series as primary sources for system diagnostics. However, high-dimensionality, non-linearity and non-stationarity of data remain a major challenge to effectively diagnose rare or new system issues by merely using model-based approaches. To reduce the causal search space, we validate an algorithm that applies transfer entropy to obtain a weighted directed graph from a system's multivariate time series and graph eigenvector centrality to identify the system's most influential parameters. The results suggest that this approach robustly identifies the true influential sources in a complex system, even when its information transfer network includes redundant edges.
+
+
+
+
+# 7. SCC: an efficient deep reinforcement learning agent mastering the game  of StarCraft II
+
+Xiangjun Wang, Junxiao Song, Penghui Qi, Peng Peng, Zhenkun Tang, Wei Zhang, Weimin Li, Xiongjun Pi, Jujie He, Chao Gao, Haitao Long, Quan Yuan
+
+- retweets: 38, favorites: 16 (12/28/2020 08:44:10)
+
+- links: [abs](https://arxiv.org/abs/2012.13169) | [pdf](https://arxiv.org/pdf/2012.13169)
+- [cs.LG](https://arxiv.org/list/cs.LG/recent)
+
+AlphaStar, the AI that reaches GrandMaster level in StarCraft II, is a remarkable milestone demonstrating what deep reinforcement learning can achieve in complex Real-Time Strategy (RTS) games. However, the complexities of the game, algorithms and systems, and especially the tremendous amount of computation needed are big obstacles for the community to conduct further research in this direction. We propose a deep reinforcement learning agent, StarCraft Commander (SCC). With order of magnitude less computation, it demonstrates top human performance defeating GrandMaster players in test matches and top professional players in a live event. Moreover, it shows strong robustness to various human strategies and discovers novel strategies unseen from human plays. In this paper, we will share the key insights and optimizations on efficient imitation learning and reinforcement learning for StarCraft II full game.
 
 
 
