@@ -19,7 +19,7 @@ module.exports = {
   author: {
     name: 'Tatsuya Shirakawa',
     photo: '/media/flying-marine.jpg',
-    bio: 'Researcher at ABEJA, inc. (Machine Learning, Deep Learning, Mathematical Optimization)',
+    bio: 'ML Lead at Beatrust. (https://beatrust.com)',
     contacts: {
       email: 'lilys1204@gmail.com',
       facebook: 'tatsuya.shirakawa.94',
