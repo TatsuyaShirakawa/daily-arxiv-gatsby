@@ -13,17 +13,17 @@ except Exception:
 
 
 def tweet_score(tweet):
-    retweet_count = int(tweet['retweets_count'])
-    favorite_count = int(tweet['likes_count'])
+    retweet_count = int(tweet.retweet_count)
+    favorite_count = int(tweet.favorite_count)
     return retweet_count + favorite_count
 
 
 def total_retweet_count(paper):
-    return sum([int(tweet['retweets_count']) for tweet in paper['tweets']])
+    return sum([int(tweet.retweet_count) for tweet in paper['tweets']])
 
 
 def total_favorite_count(paper):
-    return sum([int(tweet['likes_count']) for tweet in paper['tweets']])
+    return sum([int(tweet.favorite_count) for tweet in paper['tweets']])
 
 
 def paper_score(paper):
@@ -66,7 +66,15 @@ class HotPaperBlogWriter:
         self.t = api
 
     def get_tweet_string(self, tweet):
-        return self.t.GetStatusOembed(url=tweet['link'])['html']
+        #print(dir(tweet));exit(0)
+        ret = self.t.GetStatusOembed(status_id=tweet.id)
+        # print(ret)
+        # print(ret['url'])
+        return ret['html']
+        # return self.t.GetStatusOembed(url=tweet['link'])['html']
+        # url = f'https://twitter.com/i/web/status/{tweet.id}'
+        # print(url)
+        # return self.t.GetStatusOembed(url=url)['html']
 
     def save_markdown(self, data, result_file, min_tweet_topk=1, max_tweet_topk=10):
 
@@ -108,17 +116,24 @@ class HotPaperBlogWriter:
             print(file=fout)
             print(f'{abstract}', file=fout)
             print(file=fout)
+            seen = set([])
+            seen_str = set([])
             for i, tweet in enumerate(list(
                     reversed(sorted(paper['tweets'],
                                     key=tweet_score)))[:max_tweet_topk]):
-                retweet_count = int(tweet['retweets_count'])
-                favorite_count = int(tweet['likes_count'])
+                retweet_count = int(tweet.retweet_count)
+                favorite_count = int(tweet.favorite_count)
 
                 if i + 1 >= min_tweet_topk and retweet_count + favorite_count < self.tweet_score_threshold:
                     continue
-
+                if tweet.retweeted_status is not None:
+                    if tweet.retweeted_status.id in seen:
+                        continue
+                    seen.add(tweet.retweeted_status.id)
                 tweet_str = self.get_tweet_string(tweet)
-                print(tweet_str, file=fout)
+                if tweet_str not in seen_str:
+                    print(tweet_str, file=fout)
+                    seen_str.add(tweet_str)
 
             print(file=fout)
             print(file=fout)

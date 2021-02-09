@@ -1,5 +1,6 @@
 import os
 import sys
+import pickle
 import time
 from pathlib import Path
 import datetime
@@ -74,7 +75,6 @@ def commit_and_push(blog_filename):
     
 
 def main():
-    
     papers = crawl_arxiv(targets=TARGETS,
                          since=SINCE,
                          until=UNTIL)
@@ -86,13 +86,13 @@ def main():
     for paper in tqdm(papers['papers']):
         paper['tweets'] = search_tweets(paper['id'])
         time.sleep(SLEEP)
-
+    pickle.dump(papers, open('papers.pkl', 'wb'))
+    papers = pickle.load(open('papers.pkl', 'rb'))
     blog_filename = get_blog_filename(papers)
     write_blog(papers,
                blog_filename,
                paper_score_threshold=PAPER_SCORE_THRESHOLD,
                tweet_score_threshold=TWEET_SCORE_THRESHOLD)
-
     commit_and_push(blog_filename)
 
 
