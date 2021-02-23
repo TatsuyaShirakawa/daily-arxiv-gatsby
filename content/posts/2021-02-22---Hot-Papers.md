@@ -1,6 +1,6 @@
 ---
 title: Hot Papers 2021-02-22
-date: 2021-02-23T20:14:11.Z
+date: 2021-02-23T20:14:53.Z
 template: "post"
 draft: false
 slug: "hot-papers-2021-02-22"
@@ -19,7 +19,7 @@ socialImage: "/media/flying-marine.jpg"
 
 Alex Nichol, Prafulla Dhariwal
 
-- retweets: 805, favorites: 134 (02/23/2021 20:14:11)
+- retweets: 805, favorites: 134 (02/23/2021 20:14:53)
 
 - links: [abs](https://arxiv.org/abs/2102.09672) | [pdf](https://arxiv.org/pdf/2102.09672)
 - [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [stat.ML](https://arxiv.org/list/stat.ML/recent)
