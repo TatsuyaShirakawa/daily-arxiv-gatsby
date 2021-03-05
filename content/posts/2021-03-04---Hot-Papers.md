@@ -1,6 +1,6 @@
 ---
 title: Hot Papers 2021-03-04
-date: 2021-03-05T11:11:18.Z
+date: 2021-03-05T13:04:17.Z
 template: "post"
 draft: false
 slug: "hot-papers-2021-03-04"
@@ -19,7 +19,7 @@ socialImage: "/media/flying-marine.jpg"
 
 Tianye Li, Mira Slavcheva, Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Zhaoyang Lv
 
-- retweets: 5719, favorites: 3 (03/05/2021 11:11:18)
+- retweets: 5919, favorites: 4 (03/05/2021 13:04:17)
 
 - links: [abs](https://arxiv.org/abs/2103.02597) | [pdf](https://arxiv.org/pdf/2103.02597)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.GR](https://arxiv.org/list/cs.GR/recent)
@@ -36,7 +36,7 @@ We propose a novel approach for 3D video synthesis that is able to represent mul
 
 Priya Goyal, Mathilde Caron, Benjamin Lefaudeux, Min Xu, Pengchao Wang, Vivek Pai, Mannat Singh, Vitaliy Liptchinsky, Ishan Misra, Armand Joulin, Piotr Bojanowski
 
-- retweets: 1504, favorites: 312 (03/05/2021 11:11:18)
+- retweets: 1570, favorites: 313 (03/05/2021 13:04:17)
 
 - links: [abs](https://arxiv.org/abs/2103.01988) | [pdf](https://arxiv.org/pdf/2103.01988)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent)
@@ -56,7 +56,7 @@ Recently, self-supervised learning methods like MoCo, SimCLR, BYOL and SwAV have
 
 Hao Peng, Nikolaos Pappas, Dani Yogatama, Roy Schwartz, Noah A. Smith, Lingpeng Kong
 
-- retweets: 464, favorites: 106 (03/05/2021 11:11:18)
+- retweets: 464, favorites: 107 (03/05/2021 13:04:18)
 
 - links: [abs](https://arxiv.org/abs/2103.02143) | [pdf](https://arxiv.org/pdf/2103.02143)
 - [cs.CL](https://arxiv.org/list/cs.CL/recent)
@@ -73,7 +73,7 @@ Transformers are state-of-the-art models for a variety of sequence modeling task
 
 Nelson Nauata, Sepidehsadat Hosseini, Kai-Hung Chang, Hang Chu, Chin-Yi Cheng, Yasutaka Furukawa
 
-- retweets: 184, favorites: 90 (03/05/2021 11:11:19)
+- retweets: 184, favorites: 95 (03/05/2021 13:04:18)
 
 - links: [abs](https://arxiv.org/abs/2103.02574) | [pdf](https://arxiv.org/pdf/2103.02574)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -90,7 +90,7 @@ This paper proposes a novel generative adversarial layout refinement network for
 
 Alexander Heinrich, Milan Stute, Tim Kornhuber, Matthias Hollick
 
-- retweets: 210, favorites: 44 (03/05/2021 11:11:19)
+- retweets: 210, favorites: 47 (03/05/2021 13:04:18)
 
 - links: [abs](https://arxiv.org/abs/2103.02282) | [pdf](https://arxiv.org/pdf/2103.02282)
 - [cs.CR](https://arxiv.org/list/cs.CR/recent) | [cs.NI](https://arxiv.org/list/cs.NI/recent)
@@ -107,7 +107,7 @@ Overnight, Apple has turned its hundreds-of-million-device ecosystem into the wo
 
 Mohammed Suhail, Abhay Mittal, Behjat Siddiquie, Chris Broaddus, Jayan Eledath, Gerard Medioni, Leonid Sigal
 
-- retweets: 196, favorites: 53 (03/05/2021 11:11:19)
+- retweets: 196, favorites: 55 (03/05/2021 13:04:18)
 
 - links: [abs](https://arxiv.org/abs/2103.02221) | [pdf](https://arxiv.org/pdf/2103.02221)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -124,7 +124,7 @@ Traditional scene graph generation methods are trained using cross-entropy losse
 
 K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian
 
-- retweets: 89, favorites: 47 (03/05/2021 11:11:19)
+- retweets: 89, favorites: 48 (03/05/2021 13:04:18)
 
 - links: [abs](https://arxiv.org/abs/2103.02603) | [pdf](https://arxiv.org/pdf/2103.02603)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -141,7 +141,7 @@ Humans have a natural instinct to identify unknown object instances in their env
 
 Liyi Zhou, Kaihua Qin, Antoine Cully, Benjamin Livshits, Arthur Gervais
 
-- retweets: 90, favorites: 34 (03/05/2021 11:11:19)
+- retweets: 90, favorites: 34 (03/05/2021 13:04:19)
 
 - links: [abs](https://arxiv.org/abs/2103.02228) | [pdf](https://arxiv.org/pdf/2103.02228)
 - [cs.CR](https://arxiv.org/list/cs.CR/recent)
@@ -158,7 +158,7 @@ In this paper, we investigate two methods that allow us to automatically create 
 
 Bogdan Nicolae, Adam Moody, Gregory Kosinovsky, Kathryn Mohror, Franck Cappello
 
-- retweets: 72, favorites: 24 (03/05/2021 11:11:19)
+- retweets: 72, favorites: 24 (03/05/2021 13:04:19)
 
 - links: [abs](https://arxiv.org/abs/2103.02131) | [pdf](https://arxiv.org/pdf/2103.02131)
 - [cs.DC](https://arxiv.org/list/cs.DC/recent)
@@ -175,7 +175,7 @@ Checkpointing large amounts of related data concurrently to stable storage is a 
 
 Kaiyang Zhou, Ziwei Liu, Yu Qiao, Tao Xiang, Chen Change Loy
 
-- retweets: 50, favorites: 32 (03/05/2021 11:11:19)
+- retweets: 50, favorites: 32 (03/05/2021 13:04:19)
 
 - links: [abs](https://arxiv.org/abs/2103.02503) | [pdf](https://arxiv.org/pdf/2103.02503)
 - [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent) | [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -189,7 +189,7 @@ Generalization to out-of-distribution (OOD) data is a capability natural to huma
 
 Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen
 
-- retweets: 42, favorites: 21 (03/05/2021 11:11:19)
+- retweets: 42, favorites: 23 (03/05/2021 13:04:19)
 
 - links: [abs](https://arxiv.org/abs/2103.02535) | [pdf](https://arxiv.org/pdf/2103.02535)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
