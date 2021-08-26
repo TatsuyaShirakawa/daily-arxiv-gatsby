@@ -1,6 +1,6 @@
 ---
 title: Hot Papers 2021-08-25
-date: 2021-08-26T07:51:57.Z
+date: 2021-08-26T12:12:49.Z
 template: "post"
 draft: false
 slug: "hot-papers-2021-08-25"
@@ -19,7 +19,7 @@ socialImage: "/media/flying-marine.jpg"
 
 Viktor Makoviychuk, Lukasz Wawrzyniak, Yunrong Guo, Michelle Lu, Kier Storey, Miles Macklin, David Hoeller, Nikita Rudin, Arthur Allshire, Ankur Handa, Gavriel State
 
-- retweets: 4692, favorites: 303 (08/26/2021 07:51:57)
+- retweets: 4692, favorites: 310 (08/26/2021 12:12:49)
 
 - links: [abs](https://arxiv.org/abs/2108.10470) | [pdf](https://arxiv.org/pdf/2108.10470)
 - [cs.RO](https://arxiv.org/list/cs.RO/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -36,7 +36,7 @@ Isaac Gym offers a high performance learning platform to train policies for wide
 
 Zachary Teed, Jia Deng
 
-- retweets: 1056, favorites: 173 (08/26/2021 07:51:57)
+- retweets: 1201, favorites: 201 (08/26/2021 12:12:50)
 
 - links: [abs](https://arxiv.org/abs/2108.10869) | [pdf](https://arxiv.org/pdf/2108.10869)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent)
@@ -53,7 +53,7 @@ We introduce DROID-SLAM, a new deep learning based SLAM system. DROID-SLAM consi
 
 Thiemo Alldieck, Hongyi Xu, Cristian Sminchisescu
 
-- retweets: 180, favorites: 122 (08/26/2021 07:51:57)
+- retweets: 180, favorites: 127 (08/26/2021 12:12:50)
 
 - links: [abs](https://arxiv.org/abs/2108.10842) | [pdf](https://arxiv.org/pdf/2108.10842)
 - [cs.CV](https://arxiv.org/list/cs.CV/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent)
@@ -73,7 +73,7 @@ We present imGHUM, the first holistic generative model of 3D human shape and art
 
 Rohan Badlani, Adrian Łancucki, Kevin J. Shih, Rafael Valle, Wei Ping, Bryan Catanzaro
 
-- retweets: 126, favorites: 55 (08/26/2021 07:51:58)
+- retweets: 135, favorites: 57 (08/26/2021 12:12:50)
 
 - links: [abs](https://arxiv.org/abs/2108.10447) | [pdf](https://arxiv.org/pdf/2108.10447)
 - [cs.SD](https://arxiv.org/list/cs.SD/recent) | [cs.CL](https://arxiv.org/list/cs.CL/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent) | [eess.AS](https://arxiv.org/list/eess.AS/recent)
@@ -90,7 +90,7 @@ Speech-to-text alignment is a critical component of neural textto-speech (TTS) m
 
 Dimitri Bertsekas
 
-- retweets: 92, favorites: 76 (08/26/2021 07:51:58)
+- retweets: 92, favorites: 78 (08/26/2021 12:12:50)
 
 - links: [abs](https://arxiv.org/abs/2108.10315) | [pdf](https://arxiv.org/pdf/2108.10315)
 - [math.OC](https://arxiv.org/list/math.OC/recent) | [cs.AI](https://arxiv.org/list/cs.AI/recent)
@@ -107,7 +107,7 @@ In this paper we aim to provide analysis and insights (often based on visualizat
 
 Leshem Choshen, Idan Amit
 
-- retweets: 43, favorites: 29 (08/26/2021 07:51:58)
+- retweets: 43, favorites: 29 (08/26/2021 12:12:50)
 
 - links: [abs](https://arxiv.org/abs/2108.10763) | [pdf](https://arxiv.org/pdf/2108.10763)
 - [cs.CL](https://arxiv.org/list/cs.CL/recent) | [cs.LG](https://arxiv.org/list/cs.LG/recent) | [cs.SE](https://arxiv.org/list/cs.SE/recent)
